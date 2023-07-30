@@ -2,7 +2,7 @@
 
 During an intensive 8-week course at the Break Through Tech AI program at Cornell Tech, I had the opportunity to learn and implement many machine learning models. 
 
-After much practice on the **pre-processing** stage, developing my Python skills, including using Pandas, Numpy, Seaborn and Matplotlib, I began learning simple, but powerful models such as linear regression, K Nearest Neighbors, and Decision Trees. I developed techniques to find the ideal hyperparameters for each model by analyzing various evaluation metrics.
+After much practice on the pre-processing stage, developing my Python skills, including using Pandas, Numpy, Seaborn and Matplotlib, I began learning simple, but powerful models such as linear regression, K Nearest Neighbors, and Decision Trees. I developed techniques to find the ideal hyperparameters for each model by analyzing various evaluation metrics.
 
 I then learned about more complex models such as ensemble models (Random Forest and Gradient Boosted Decision Trees), using the stacking, bagging, and boosting techniques.
 
