@@ -8,4 +8,6 @@ I then learned about more complex models such as ensemble models (Random Forest 
 
 Finally, I delved into Natural Language Processing and Neural Networks, which meant I could finally build more complex and non-linear models. I learned to train train, finetune, and test data pipelines and build neural networks using TensorFlow and Keras.
 
+For my final project, I used NLP and trained several ML models to predict whether a given book review was generally positive or negative, then evaluated their performances.
+
 I am proud to present the work I completed during this program and I am excited to continue to apply my skills to real-world projects in AI and ML!
